@@ -65,6 +65,8 @@ This project demonstrates how to create and style components in React Native. It
 │   ├── useColorScheme.web.ts   # Web-specific version of the color scheme hook
 ├── constants/       # Contains constants for the app
 │   ├── Colors.ts   # File defining the app's color palette
+├── hooks/       # Hooks for the app
+│   ├── useFilter.tsx   # Filtering stock
 ├── data.tsx         # JSON data for stock information
 └── utils/           # Utility functions and helpers
     ├── formatCurrency.ts # Function for formatting currency values
