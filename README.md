@@ -114,4 +114,4 @@ This project demonstrates how to create and style components in React Native. It
 
 ---
 
-**Note:** This project uses version 50 of Expo, and future updates may bring changes to some of the dependencies or APIs.
+**Note:** This project uses version 52 of Expo, and future updates may bring changes to some of the dependencies or APIs.
